@@ -6,9 +6,9 @@ fullPage支持无参数的调用，每个参数都会有默认值，如果想实
 
 	$('*').fullpage({
 		page: '.page',
-        start: 0,
-        duration: 500,
-        drag: false,
+                start: 0,
+                duration: 500,
+                drag: false,
 		loop: false,
 		dir: 'v',
         change: function () {},
